@@ -1,6 +1,6 @@
 {
     "port": 5000,
-    "mongoUri": "mongodb+srv://aekostyuk:W16032013t@webemot.qac42.azure.mongodb.net/linker",
+    "mongoUri": "mongodb+srv://test:1zQnp2gB2qVuEUJ6@webemot.qac42.azure.mongodb.net/linker",
     "jwtSecret": "linker secret key",
     "baseUrl": "http://localhost:5000"
 }
