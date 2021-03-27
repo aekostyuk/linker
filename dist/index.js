@@ -2,7 +2,6 @@ const express = require("express");
 const config = require("./config/default.json");
 const path = require("path");
 const mongoose = require("mongoose");
-const { RSA_NO_PADDING } = require("node:constants");
 
 const app = express();
 const PORT = config.port || 3000;
